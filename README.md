@@ -1,91 +1,64 @@
-📘 Design and Analysis of Algorithms Lab
-🧑‍🎓 BCA IV Semester – 24BCA42P
-📌 About the Repository
+💻 DAA Lab Programs – 4th Sem BCA (24BCA42P)
 
-This repository contains all the lab programs for the course Design and Analysis of Algorithms Lab (24BCA42P) for BCA IV Semester students.
+Welcome to the official repository for Design and Analysis of Algorithms Lab Programs designed specifically for 4th Semester BCA students.
 
-It includes implementations of fundamental algorithms along with performance analysis wherever required. The programs are written in a simple and easy-to-understand manner for academic purposes.
+This collection includes important algorithm implementations such as searching, sorting, graph algorithms, dynamic programming, and backtracking techniques. The programs are written in a simple and beginner-friendly way, making them useful for lab exams and understanding core DAA concepts.
 
-🎯 Objectives
-To understand different algorithm design techniques
-To analyze time complexity using experimental methods
-To implement classic algorithms using Python
-To study real-world problem-solving approaches
-🧠 Topics Covered
-🔍 Searching Algorithms
-🔃 Sorting Algorithms
-⚡ Divide and Conquer
-🌐 Graph Algorithms
-📊 Dynamic Programming
-🔁 Backtracking
-🔤 String Matching
-🧩 Classic Problems
+📁 Contents
+🔸 Searching/ – Linear Search, Binary Search
+🔸 Sorting/ – Selection Sort, Quick Sort
+🔸 Divide_and_Conquer/ – Min & Max problem
+🔸 Graph_Algorithms/ – BFS, Prim’s, Kruskal’s, Floyd’s, Warshall’s
+🔸 Dynamic_Programming/ – Optimal Binary Search Tree
+🔸 Backtracking/ – 4-Queens, Subset Sum
+🔸 String_Matching/ – Boyer-Moore Algorithm
+🔸 Classic_Problems/ – Tower of Hanoi
 
-📂 List of Programs
-Linear Search
-Implementation and time analysis with varying input sizes
-Binary Search
-Efficient searching with performance graph
-Tower of Hanoi
-Recursive solution for different disk sizes
-Selection Sort
-Sorting with time complexity analysis
-Min and Max (Divide & Conquer)
-Finding minimum and maximum in an array
-Quick Sort
-Efficient sorting with performance evaluation
-Optimal Binary Search Tree (Dynamic Programming)
-Floyd’s Algorithm
-All-pairs shortest path in weighted graphs
-Boyer-Moore String Matching
-Efficient pattern searching
-Breadth First Search (BFS)
-Graph traversal technique
-Prim’s Algorithm
-Minimum Spanning Tree
-Kruskal’s Algorithm
-Minimum Spanning Tree using greedy method
-Topological Sorting & Warshall’s Algorithm
-DAG ordering and transitive closure
-4-Queens Problem
-Backtracking solution
-Subset Sum Problem
-Finding subsets with given sum
-🛠️ Technologies Used
-Programming Language: Python 🐍
-Tools: VS Code / PyCharm
-Libraries (optional):
-time (for performance analysis)
-matplotlib (for plotting graphs)
+🧑‍🎓 Who Should Use This?
+✅ 4th Semester BCA students
+✅ Students preparing for DAA lab exams
+✅ Beginners learning algorithms
+✅ Anyone interested in problem-solving techniques
 
-📊 Performance Analysis
-Some programs include:
-Execution time measurement
-Graph plotting (Time vs Input Size n)
-Comparative analysis of algorithm efficiency
+🛠 Requirements
+You may need the following to run the programs:
+Python 3.x 🐍
+Any code editor (VS Code, PyCharm, Notepad++, etc.)
+Basic knowledge of programming
 
-🚀 How to Run
-Clone the repository:
-git clone https://github.com/your-username/DAA-Lab-24BCA42P.git
-Navigate to the folder:
-cd DAA-Lab-24BCA42P
-Run any program:
+🚀 How to Use
+Clone the repository or download it as a ZIP file
+Open the folder in your code editor
+Run any program using:
 python filename.py
+For programs with graphs, ensure required libraries (like matplotlib) are installed
 
-📚 Academic Use
-This repository is intended for:
-BCA students
-Lab record preparation
-Understanding DAA concepts
-Exam revision
+📝 Contributing
+Have improvements or extra programs to share? Feel free to fork the repo and submit a pull request. Educational contributions are always welcome.
 
-👨‍💻 Author
-Manoj P
-Assistant Professor 
-Bachelor's of Computer Applications
+📧 Contact
+For questions or suggestions, contact:
+Manoj P (Assistant Professor) BCA Department/ Maintainer
+📧 Email: 15manojp08@gmail.com
+📱 Mobile No: 9663000319
 
-⭐ Support
-If you find this repository helpful:
-⭐ Star the repo
-🍴 Fork it
-📢 Share with classmates
+📚 License
+This project is open-source and free to use for educational purposes.
+
+📌 List of Programs
+24BCA42P : Design and Analysis of Algorithms Lab
+Write a program to implement Linear Search Algorithm and plot time vs n.
+Write a program to implement Binary Search Algorithm and plot time vs n.
+Write a program to solve Tower of Hanoi for different number of disks.
+Write a program to perform Selection Sort and analyze time complexity.
+Write a program to find Minimum and Maximum using Divide & Conquer.
+Write a program to perform Quick Sort and analyze time complexity.
+Write a program for Optimal Binary Search Tree (Dynamic Programming).
+Write a program to implement Floyd’s Algorithm (All-pairs shortest path).
+Write a program for Boyer-Moore String Matching Algorithm.
+Write a program to implement Breadth First Search (BFS).
+Write a program for Prim’s Algorithm (Minimum Spanning Tree).
+Write a program for Kruskal’s Algorithm (Minimum Spanning Tree).
+Write a program for Topological Sorting and Warshall’s Algorithm.
+Write a program to solve 4-Queens Problem (Backtracking).
+Write a program to solve Subset Sum Problem.
