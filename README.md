@@ -47,18 +47,33 @@ This project is open-source and free to use for educational purposes.
 
 📌 List of Programs
 24BCA42P : Design and Analysis of Algorithms Lab
-Write a program to implement Linear Search Algorithm and plot time vs n.
-Write a program to implement Binary Search Algorithm and plot time vs n.
-Write a program to solve Tower of Hanoi for different number of disks.
-Write a program to perform Selection Sort and analyze time complexity.
-Write a program to find Minimum and Maximum using Divide & Conquer.
-Write a program to perform Quick Sort and analyze time complexity.
-Write a program for Optimal Binary Search Tree (Dynamic Programming).
-Write a program to implement Floyd’s Algorithm (All-pairs shortest path).
-Write a program for Boyer-Moore String Matching Algorithm.
-Write a program to implement Breadth First Search (BFS).
-Write a program for Prim’s Algorithm (Minimum Spanning Tree).
-Write a program for Kruskal’s Algorithm (Minimum Spanning Tree).
-Write a program for Topological Sorting and Warshall’s Algorithm.
-Write a program to solve 4-Queens Problem (Backtracking).
-Write a program to solve Subset Sum Problem.
+
+1.Write a program to implement Linear Search Algorithm and plot time vs n.
+
+2.Write a program to implement Binary Search Algorithm and plot time vs n.
+
+3.Write a program to solve Tower of Hanoi for different number of disks.
+
+4.Write a program to perform Selection Sort and analyze time complexity.
+
+5.Write a program to find Minimum and Maximum using Divide & Conquer.
+
+6.Write a program to perform Quick Sort and analyze time complexity.
+
+7.Write a program for Optimal Binary Search Tree (Dynamic Programming).
+
+8.Write a program to implement Floyd’s Algorithm (All-pairs shortest path).
+
+9.Write a program for Boyer-Moore String Matching Algorithm.
+
+10.Write a program to implement Breadth First Search (BFS).
+
+11.Write a program for Prim’s Algorithm (Minimum Spanning Tree).
+
+12.Write a program for Kruskal’s Algorithm (Minimum Spanning Tree).
+
+13.Write a program for Topological Sorting and Warshall’s Algorithm.
+
+14.Write a program to solve 4-Queens Problem (Backtracking).
+
+15.Write a program to solve Subset Sum Problem.
